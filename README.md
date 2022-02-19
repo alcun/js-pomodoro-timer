@@ -35,4 +35,5 @@ It was developed using:
 
 ## TO DO:
 
+- Transparent footer may look better
 
